@@ -47,10 +47,6 @@ The results section will contain a detailed analysis of the data collected, incl
 
 The conclusion will summarize the findings of the case study, highlighting whether each hypothesis was supported or refuted by the data. Recommendations for future UI improvements will also be provided based on the results.
 
-## Usage
-
-To review the data and analysis scripts, please follow these instructions:
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/vanguard-case-study.git
