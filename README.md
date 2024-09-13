@@ -43,8 +43,9 @@ The results section will contain a detailed analysis of the data collected, incl
 - **H2 Results**: Analysis on whether the new UI design led to faster onboarding times.
 - **H3 Results**: Analysis on whether the new UI design resulted in lower error rates.
 
--Trello : https://trello.com/b/4UjxuVc7/week-5-vanguard-group-project
 
 ## Conclusion
 
 The conclusion will summarize the findings of the case study, highlighting whether each hypothesis was supported or refuted by the data. Recommendations for future UI improvements will also be provided based on the results.
+
+- Trello : https://trello.com/b/4UjxuVc7/week-5-vanguard-group-project
